@@ -1,6 +1,6 @@
 # Aglyphs ⚡
 
-![Aglyphs](aglyphs-banner.jpg)
+![Aglyphs](assets/banner.jpg)
 
 ![Version](https://img.shields.io/badge/version-0.2.0-4B9CD3)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -14,7 +14,7 @@ Aglyphs lets you describe complex AI agent architectures, teams, memory systems,
 ⨁(𝔾) ⇑ {𝔸_research[𝕄ᵛ], 𝔸_code[𝕋]} → ▷
 ```
 
-*Made for builders who hate bloated diagrams.*
+Made for builders who hate bloated diagrams.
 
 ---
 
@@ -64,18 +64,6 @@ For a live playground, see the [web demo](https://github.com/rb-thompson/aglyphs
 
 ## Contributing
 
-Pull requests welcome! Especially:
-- New useful patterns
-- Additional glyphs for new paradigms (MoE, critic loops, etc.)
-- Font recommendations or CSS for better rendering
-- A JavaScript renderer / Mermaid plugin
-
----
-
----
-
-## Contributing
-
 We welcome contributions from both **developers** and **autonomous agents**.
 
 **High-value contributions:**
@@ -86,11 +74,11 @@ We welcome contributions from both **developers** and **autonomous agents**.
 - JavaScript/Mermaid renderer or VS Code extension
 - Real-world usage examples from production agent systems
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) (coming soon) for guidelines.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Made for the agentic future.**
+Made for the agentic future.
 
 — Brandon Thompson & Blink (2026)
 
