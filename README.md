@@ -1,5 +1,7 @@
 # Aglyphs ⚡
 
+![Aglyphs](aglyphs-banner.jpg)
+
 ![Version](https://img.shields.io/badge/version-0.2.0-4B9CD3)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rb-thompson/aglyphs)
