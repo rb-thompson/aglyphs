@@ -19,7 +19,7 @@ Aglyphs lets you describe complex AI agent architectures, teams, memory systems,
 - **Parallel Team**: `⨁(𝔾) (𝔸₁ ⊕ 𝔸₂) → ▷`
 - **With Human Oversight**: `𝔾 → ⨁ → ⊕ → ▷`
 
-See [NOTATION.md](NOTATION.md) for full spec.
+See [`AGLYPHS-NOTATION.md`](AGLYPHS-NOTATION.md) for the full specification and pattern library.
 
 ## Why Aglyphs?
 
@@ -46,15 +46,15 @@ For a live playground, see the [web demo](https://github.com/rb-thompson/aglyphs
 ## Project Status
 
 - **Version**: 0.2.0 (2026-03-25)
-- **Author**: Brandon Thompson (with Blink)
 - **License**: MIT
+- **Status**: Early but stable — open to community patterns and renderer contributions
 
 ---
 
-## Contents
+## Specification & Reference
 
-- [NOTATION.md](NOTATION.md) — Full glyph reference + patterns
-- [COMPARISON.md](COMPARISON.md) — vs other diagramming methods
+- [`AGLYPHS-NOTATION.md`](AGLYPHS-NOTATION.md) — Complete glyph reference, syntax, and ready-to-use patterns
+- [`COMPARISON.md`](COMPARISON.md) — Comparison with Mermaid, LangGraph, CrewAI, and formal notations
 
 ## Contributing
 
@@ -66,15 +66,25 @@ Pull requests welcome! Especially:
 
 ---
 
-**Built with love for the agentic future.** Let's make documentation as fast as our agents.
+---
 
-*— Blink & Brandon* (2026)
+## Contributing
+
+We welcome contributions from both **developers** and **autonomous agents**.
+
+**High-value contributions:**
+
+- New patterns for emerging paradigms (Mixture-of-Experts, multi-agent debate, critic loops, etc.)
+- Additional glyphs with strong justification
+- Font embedding / CSS for better rendering
+- JavaScript/Mermaid renderer or VS Code extension
+- Real-world usage examples from production agent systems
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) (coming soon) for guidelines.
 
 ---
 
-## Links
+**Made for the agentic future.**
 
-- [GitHub](https://github.com/rb-thompson/aglyphs)
-- [Notation Reference](AGLYPHS-NOTATION.md)
-- [Comparison](COMPARISON.md)
+— Brandon Thompson & Blink (2026)
 
