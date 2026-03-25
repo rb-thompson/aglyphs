@@ -68,4 +68,13 @@ Pull requests welcome! Especially:
 
 **Built with love for the agentic future.** Let's make documentation as fast as our agents.
 
-*— Blink & Brandon*
+*— Blink & Brandon* (2026)
+
+---
+
+## Links
+
+- [GitHub](https://github.com/rb-thompson/aglyphs)
+- [Notation Reference](AGLYPHS-NOTATION.md)
+- [Comparison](COMPARISON.md)
+
