@@ -1,5 +1,9 @@
 # Aglyphs ⚡
 
+![Version](https://img.shields.io/badge/version-0.2.0-4B9CD3)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub repo size](https://img.shields.io/github/repo-size/rb-thompson/aglyphs)
+
 **Compact symbolic notation for Grok-powered agentic systems**
 
 Aglyphs lets you describe complex AI agent architectures, teams, memory systems, and workflows in **one compact line** — perfect for docs, code comments, whiteboards, and GitHub READMEs.
