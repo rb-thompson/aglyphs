@@ -22,6 +22,7 @@ These are the foundational symbols. Use superscripts for types (`Λˣ` = Grok mo
 | ⊕     | Human-in-the-Loop | Human oversight / approval                   | Safety & critical decisions      |
 | ⊛     | Environment       | External world / context                     | APIs, databases, real-world feedback |
 | ⇄     | Collaboration Link| Peer-to-peer agent communication             | Team member interaction          |
+| ⊙_zk  | ZK Proof Gate     | ZK proof gate (seals results, no traces)     | Privacy seal: 𝔾 → ⊙_zk → ▷ (Grok thinks, seals proof, outputs clean) |
 
 ## 2. Operators & Modifiers
 
@@ -61,7 +62,7 @@ These are the foundational symbols. Use superscripts for types (`Λˣ` = Grok mo
 ## 4. Advanced Usage Tips
 
 - **Nesting**: `⨁(𝔾[Λˣ]) ⇑ 𝔸[𝕄ᵛ ⊗ 𝕋]`
-- **Constraints**: `𝔾{goal: "max quality"} [Λˣ]`
+- **Constraints**: `𝔾{goal: \"max quality\"} [Λˣ]`
 - **Shared State**: `[𝕄_shared]` at team level
 - **Escape to text**: Use parentheses for complex subflows: `(𝔸₁ → 𝕋 → 𝔸₂)`
 
